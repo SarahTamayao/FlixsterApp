@@ -20,7 +20,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] Apply data binding for views to help remove boilerplate code. (1 point)
 - [ ] Add a rounded corners for the images using the Glide transformations. (1 point)
 
-
+<img src="https://github.com/programmer1188/FlixsterApp/blob/master/Flixster_part2.gif" width=250><br> 
 ---
 
 ## Flix Part 1
